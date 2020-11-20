@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "243537157028",
+    "firebase_url": "https://cumb-9910.firebaseio.com",
+    "project_id": "cumb-9910",
+    "storage_bucket": "cumb-9910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243537157028:android:1d4ce675c6f73c79a43f31",
+        "android_client_info": {
+          "package_name": "com.NahVicDev.cumb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243537157028-8qh4avmbgv4fistqcss606q22icargtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-bHE8RM5YsI0fz5ark4YIc0TwyOBpCz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243537157028-8qh4avmbgv4fistqcss606q22icargtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

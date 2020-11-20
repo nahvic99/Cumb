@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Cumb</string>
+    <string name="Usr">Usuario</string>
+    <string name="Pass">Contraseña</string>
+    <string name="Crt">Crear una nueva cuenta</string>
+    <string name="Email">Email</string>
+    <string name="Rg">Registrar</string>
+    <string name="lg">Iniciar Sesion</string>
+    <string name="inc">Inicio de sesion</string>
+    <string name="cumb">Cumb</string>
+    <string name="registro">Registro</string>
+    <string name="CS">Cerrar Sesion</string>
+
+
+    <string name="EUM">Escribe un mensaje</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2768901988841601/7176154699</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="perfil">Perfil</string>
+    <string name="term">Al hacer clic en registrar acepta los<a href="http://cumb-9910.web.app/terminos"> Terminos y condiciones</a> y las <a href="http://cumb-9910.web.app/pautas"> Normas de la comunidad</a></string>
+    <string name="busqueda">Busqueda...</string>
+
+</resources>
